@@ -39,7 +39,3 @@
 <img src="https://camo.githubusercontent.com/728910691bb690edee33bc5cfdf5c931f3b5d05a2f1dd3330766a09aa7a91698/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f333030783330302e706e67" height="45" data-canonical-src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667" height="45" data-canonical-src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" style="max-width: 100%;">
-
----
-
-### 📚 Last posts
