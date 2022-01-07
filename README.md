@@ -33,18 +33,18 @@
 <img align="left"  src="https://camo.githubusercontent.com/62ef05f988d169ece8b5aa2ec612ee4b679a3863fe586d4a4af9aa946955e8a0/68747470733a2f2f7777772e736f6d6d656c6965726465636166652e636f6d2f323031392f77702d636f6e74656e742f75706c6f6164732f323030392f30362f6a6176612d6c6f676f312d312e706e67" height="45" data-canonical-src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-1.png">
 
 <!--PYTHON-->
-<img loading="lazy" align="left" src="https://user-images.githubusercontent.com/90937483/141752846-5629c1ae-1a7e-4c86-a558-7b4ee68cc26f.png" 
+<img align="left" src="https://user-images.githubusercontent.com/90937483/141752846-5629c1ae-1a7e-4c86-a558-7b4ee68cc26f.png" 
 height="40" />
 
 <!--ANDROID-->
-<img align="left"  src="https://camo.githubusercontent.com/31d79d0fdeab231244070743dfc6f4129ff23d67066a8b63f7910e04b62c1deb/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f30352f616e64726f69642d6c6f676f2d372d312e706e67" height="45" data-canonical-src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-7-1.png">
+<img align="left" src="https://camo.githubusercontent.com/31d79d0fdeab231244070743dfc6f4129ff23d67066a8b63f7910e04b62c1deb/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f30352f616e64726f69642d6c6f676f2d372d312e706e67" height="45" data-canonical-src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-7-1.png">
 
 <!--SQL-->
-<img align="left" loading="lazy" src="https://www.mikefal.net/wp-content/uploads/2016/05/logoAzureSql.png" 
+<img align="left" src="https://www.mikefal.net/wp-content/uploads/2016/05/logoAzureSql.png" 
 height="40" />
 
 <!--MONGO-->
-<img loading="lazy" src="https://img.icons8.com/color/452/mongodb.png" 
+<img src="https://img.icons8.com/color/452/mongodb.png" 
 height="50" />
 
 <h2 align="center">🛠️ Used tools</h2>
@@ -73,18 +73,18 @@ height="50" />
 <img align="left"  src="https://camo.githubusercontent.com/728910691bb690edee33bc5cfdf5c931f3b5d05a2f1dd3330766a09aa7a91698/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f333030783330302e706e67" height="45" data-canonical-src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png">
 
 <!--WORDPRESS-->
-<img align="left" loading="lazy" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" 
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" 
 height="45" />
 
 <!--BOOTSTRAP-->
-<img align="left"  src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667" height="45" data-canonical-src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
+<img align="left" src="https://camo.githubusercontent.com/70ea199263787f23ad0f1feaf0c265d3baeb4286dd7089aa56ece4f73ee99f94/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f626f6f7473747261702d352d312e737667" height="45" data-canonical-src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
 
 <!--VMWARE-->
-<img align="left" loading="lazy" src="https://es.seaicons.com/wp-content/uploads/2015/10/VMware-icon.png" 
+<img align="left" src="https://es.seaicons.com/wp-content/uploads/2015/10/VMware-icon.png" 
 height="50" />
 
 <!--ODOO-->
-<img loading="lazy" src="https://clouding.io/blog/wp-content/uploads/2020/11/odoo_new_openerpfinal1000.png" 
+<img src="https://clouding.io/blog/wp-content/uploads/2020/11/odoo_new_openerpfinal1000.png" 
 height="70" />
 
 
