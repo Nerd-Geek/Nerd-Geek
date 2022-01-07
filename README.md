@@ -5,8 +5,6 @@
 </div>
 
 <h2 align="center">💻 Programmer and 💗 lover of ethical security</h2>
- 
----
 
 <p align="center">
     <ul>
@@ -20,8 +18,6 @@
 </p>
 
 <h2 align="center">🚀 Favorite languages</h2>
-
----
 
 <!--HTML-->
 <img align="left" src="https://camo.githubusercontent.com/309bd1d3bd253dff456421a439882e5189b95a839120f0555d7172ff277e99c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f35313270782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" height="45" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
@@ -48,8 +44,6 @@ height="40" />
 height="50" />
 
 <h2 align="center">🛠️ Used tools</h2>
-
----
 
 <!--DOCKER-->
 <img align="left"  src="https://camo.githubusercontent.com/2c530b38cb14e74d785ebe8d7bf1a649fb44d3e9f43a8dbc103dc01d1fbfce0e/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f64382f323031392d30372f766572746963616c2d6c6f676f2d6d6f6e6f6368726f6d617469632e706e67" height="45" data-canonical-src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
@@ -90,8 +84,6 @@ height="70" />
 
 <h2 align="center">📈 My Activity</h2>
 
----
-
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Nerd-Geek&show_icons=true&theme=dracula">
     <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=Nerd-Geek&show_icons=true&theme=dracula" height="220" alt="Nerd-Geek"/>
@@ -102,8 +94,6 @@ height="70" />
 </div>
 
 <h2 align="center">🏆 My trophies</h2>
-
----
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nerd-Geek&row=2&column=3&theme=onestar" alt="Nerd-Geek" height= 250/></a>
