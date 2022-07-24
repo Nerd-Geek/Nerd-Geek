@@ -4,7 +4,21 @@
     <img src="https://media.wired.com/photos/59547eae8e8cc150fa8ec15f/master/w_2560%2Cc_limit/DVDP_ObfuscatedCode_613x343.gif">
 </div>
 
+<h2 align="center">💗Solcials💗</h2>
+
 <h2 align="center">💻 Programmer and 💗 lover of ethical security</h2>
+
+<p align="center">
+    <a href="https://github.com/Nerd-Geek" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="42" height="42" />
+    </a>
+    &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/carlos-moreno-69ab5a224/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-             generator/main/public/icons/socials/linkedin.svg" width="42" height="42" />
+    </a>
+    &nbsp; &nbsp;
+    <a href="https://twitter.com/nerdgeekinform1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="42" height="42" />
+    </a>
+</p>
 
 <p align="center">
     <ul>
