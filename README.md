@@ -62,10 +62,12 @@ height="50" />
 <h2 align="center">🛠️ Used tools</h2>
 
 <!--DJANGO-->
-<img src="https://user-images.githubusercontent.com/80284510/180657634-3fa45072-af05-4c9f-ba4f-c8b3995dfe7f.png"
+<img align="left" 
+src="https://user-images.githubusercontent.com/80284510/180657634-3fa45072-af05-4c9f-ba4f-c8b3995dfe7f.png"
 height="50" />
 
-<img src="https://user-images.githubusercontent.com/80284510/180657684-454357b1-e991-4754-8e7b-a37efc536b6c.png"
+<img align="left" 
+src="https://user-images.githubusercontent.com/80284510/180657684-454357b1-e991-4754-8e7b-a37efc536b6c.png"
 height="50" />
 
 <!--DOCKER-->
