@@ -63,11 +63,12 @@ height="50" />
 
 <!--DJANGO-->
 <img align="left" 
-src="https://user-images.githubusercontent.com/80284510/180657634-3fa45072-af05-4c9f-ba4f-c8b3995dfe7f.png"
+src="https://user-images.githubusercontent.com/80284510/180657868-be407281-dbc0-4d86-8424-b7e01cd22412.png"
 height="50" />
 
+<!--SPRIBNG BOOT-->
 <img align="left" 
-src="https://user-images.githubusercontent.com/80284510/180657684-454357b1-e991-4754-8e7b-a37efc536b6c.png"
+src="https://user-images.githubusercontent.com/80284510/180657863-c5675290-d33e-4651-b59a-45f090c2c456.png"
 height="50" />
 
 <!--DOCKER-->
