@@ -59,11 +59,14 @@ height="40" />
 <img src="https://img.icons8.com/color/452/mongodb.png" 
 height="50" />
 
+<h2 align="center">🛠️ Used tools</h2>
+
 <!--DJANGO-->
-<img src="https://user-images.githubusercontent.com/80284510/180657570-ec3d77fe-86b2-4f56-ae3c-259af0069275.pnG" 
+<img src="https://user-images.githubusercontent.com/80284510/180657634-3fa45072-af05-4c9f-ba4f-c8b3995dfe7f.png"
 height="50" />
 
-<h2 align="center">🛠️ Used tools</h2>
+<img src="https://user-images.githubusercontent.com/80284510/180657684-454357b1-e991-4754-8e7b-a37efc536b6c.png"
+height="50" />
 
 <!--DOCKER-->
 <img align="left"  src="https://camo.githubusercontent.com/2c530b38cb14e74d785ebe8d7bf1a649fb44d3e9f43a8dbc103dc01d1fbfce0e/68747470733a2f2f7777772e646f636b65722e636f6d2f73697465732f64656661756c742f66696c65732f64382f323031392d30372f766572746963616c2d6c6f676f2d6d6f6e6f6368726f6d617469632e706e67" height="45" data-canonical-src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">
