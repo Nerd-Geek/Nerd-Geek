@@ -59,6 +59,10 @@ height="40" />
 <img src="https://img.icons8.com/color/452/mongodb.png" 
 height="50" />
 
+<!--DJANGO-->
+<img src="https://user-images.githubusercontent.com/80284510/180657570-ec3d77fe-86b2-4f56-ae3c-259af0069275.pnG" 
+height="50" />
+
 <h2 align="center">🛠️ Used tools</h2>
 
 <!--DOCKER-->
