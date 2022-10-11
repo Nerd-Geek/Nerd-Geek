@@ -107,13 +107,13 @@ height="45" />
 <img align="left" src="https://es.seaicons.com/wp-content/uploads/2015/10/VMware-icon.png" 
 height="50" />
 
+<!--FLUTTER-->
+<img align="left" src="https://user-images.githubusercontent.com/80284510/195205146-21afc25e-ecd6-4676-8a50-ff63301c7b21.png" 
+height="40" />
+
 <!--ODOO-->
 <img src="https://clouding.io/blog/wp-content/uploads/2020/11/odoo_new_openerpfinal1000.png" 
 height="70" />
-
-<!--FLUTTER-->
-<img src="https://user-images.githubusercontent.com/80284510/195205146-21afc25e-ecd6-4676-8a50-ff63301c7b21.png" 
-height="40" />
 
 
 <h2 align="center">📈 My Activity</h2>
