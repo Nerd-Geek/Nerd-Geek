@@ -113,7 +113,7 @@ height="70" />
 
 <!--FLUTTER-->
 <img src="https://user-images.githubusercontent.com/80284510/195205146-21afc25e-ecd6-4676-8a50-ff63301c7b21.png" 
-height="70" />
+height="40" />
 
 
 <h2 align="center">📈 My Activity</h2>
